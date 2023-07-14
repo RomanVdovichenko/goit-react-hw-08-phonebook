@@ -1,0 +1,25 @@
+.formContact {
+    border: 1px solid #111;
+    width: 30vw;
+    padding: 20px;
+}
+
+.btn {
+    display: block;
+    padding: 5px;
+    background-color: dodgerblue;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    background-color: rgb(4, 88, 172);
+}
+
+.text {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 20vw;
+}
